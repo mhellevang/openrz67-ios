@@ -1,6 +1,6 @@
 # OpenRZ67 for iOS
 
-An iPhone app for controlling the [openrz67-trigger](https://github.com/openrz67/openrz67-trigger) Bluetooth remote trigger for the Mamiya RZ67 camera. It is the iOS counterpart of [openrz67-android](https://github.com/openrz67/openrz67-android).
+An iPhone app for controlling the [openrz67-trigger](https://github.com/mhellevang/openrz67-trigger) Bluetooth remote trigger for the Mamiya RZ67 camera. It is the iOS counterpart of [openrz67-android](https://github.com/mhellevang/openrz67-android).
 
 ## Features
 

@@ -6,9 +6,9 @@ Status and checklist for the first App Store release. Tick items off as they are
 
 - [x] App works against the trigger (tested as "My Mac (Designed for iPhone)" on an Apple silicon Mac)
 - [x] Export compliance answered in `Info.plist` (`ITSAppUsesNonExemptEncryption = NO`)
-- [x] Privacy policy: https://openrz67.github.io/privacy.html
-- [x] Support page: https://openrz67.github.io/support.html
-- [x] Project site, org profile and trigger README link this repo as working, build from source
+- [x] Privacy policy: https://mhellevang.github.io/openrz67/privacy.html
+- [x] Support page: https://mhellevang.github.io/openrz67/support.html
+- [x] Project site and trigger README link this repo as working, build from source
 
 ## Once
 
@@ -36,7 +36,7 @@ Status and checklist for the first App Store release. Tick items off as they are
 
 Review notes:
 
-> This app controls the openrz67 trigger, an open-source Bluetooth LE remote release that plugs into the Mamiya RZ67 camera's remote port (https://github.com/openrz67). The app requires this hardware to do anything; without it, it stays on "Scanning for devices". Demo video of the app firing the camera: <link>. No account or login is needed, and the app collects no data.
+> This app controls the openrz67 trigger, an open-source Bluetooth LE remote release that plugs into the Mamiya RZ67 camera's remote port (https://github.com/mhellevang/openrz67-trigger). The app requires this hardware to do anything; without it, it stays on "Scanning for devices". Demo video of the app firing the camera: <link>. No account or login is needed, and the app collects no data.
 
 ## After release
 
