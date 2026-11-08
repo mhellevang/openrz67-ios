@@ -6,9 +6,9 @@ Status and checklist for the first App Store release. Tick items off as they are
 
 - [x] App works against the trigger (tested as "My Mac (Designed for iPhone)" on an Apple silicon Mac)
 - [x] Export compliance answered in `Info.plist` (`ITSAppUsesNonExemptEncryption = NO`)
-- [x] Privacy policy: https://mhellevang.github.io/openrz67/privacy.html
-- [x] Support page: https://mhellevang.github.io/openrz67/support.html
-- [x] Project site and trigger README link this repo as working, build from source
+- [x] Privacy policy: https://github.com/mhellevang/openrz67-trigger/blob/main/docs/privacy.md
+- [x] Support page: https://github.com/mhellevang/openrz67-trigger/blob/main/docs/support.md
+- [x] Trigger README links this repo as working, build from source
 
 ## Once
 
@@ -40,4 +40,4 @@ Review notes:
 
 ## After release
 
-- [ ] Change the iOS status on the project site, org profile and trigger README from "in progress" to released, with an App Store link
+- [ ] Change the iOS status on the org profile and trigger README from "in progress" to released, with an App Store link
